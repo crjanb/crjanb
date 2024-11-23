@@ -11,11 +11,12 @@
 </ul>
 
 <p>🌐 Contact Information:</p>
-  <ul>
-    <li>📧 Email: crjanb@gmail.com</li>
-    <li>💼 LinkedIn: linkedin.com/in/crjanb</li>
-    <li>👨‍💻 All of my projects are available at [kaggle.com/crjanb](kaggle.com/crjanb)</li>
-  </ul>
+<ul>
+  <li>📧 Email: <a href="mailto:crjanb@gmail.com">crjanb@gmail.com</a></li>
+  <li>💼 LinkedIn: <a href="https://linkedin.com/in/crjanb" target="blank">linkedin.com/in/crjanb</a></li>
+  <li>👨‍💻 All of my projects are available at <a href="https://www.kaggle.com/crjanb" target="blank">kaggle.com/crjanb</a></li>
+</ul>
+
   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crjanb&label=Profile%20views&color=0eb4a1&style=flat" alt="crjanb" /> </p>
