@@ -14,11 +14,9 @@
   <ul>
     <li>📧 Email: crjanb@gmail.com</li>
     <li>💼 LinkedIn: linkedin.com/in/crjanb</li>
+    <li>👨‍💻 All of my projects are available at [kaggle.com/crjanb](kaggle.com/crjanb)</li>
   </ul>
   
-
-
-- 👨‍💻 All of my projects are available at [kaggle.com/crjanb](kaggle.com/crjanb)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crjanb&label=Profile%20views&color=0eb4a1&style=flat" alt="crjanb" /> </p>
 
